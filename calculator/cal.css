@@ -1,0 +1,58 @@
+*{
+    
+    padding:0;
+}
+h1{
+    text-align: center;
+    background-color: green;
+ margin: 0 auto;
+  max-width: 350px;
+  text-align: center;
+  margin-top: 20px;
+}
+#card{
+    margin: 0 auto;
+   
+    max-width: 350px;
+    text-align: center;
+    margin-top: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  font-size: 0;
+    
+}
+#card:hover{
+
+  box-shadow: 10px 16px 10px 32px rgba(0, 0, 0, 0.096);
+  
+    
+}
+#calc-head #box1{
+    width:335px;
+    height: 100px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align:  right;
+    padding: 5px;
+    letter-spacing: 2px ;
+    background-color:grey;
+    cursor: pointer;
+}
+#button{
+    width: 87px;
+    height: 70px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: seagreen;
+    color: silver;
+
+}
+#button:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+#end{
+    background-color: green;
+}
+#copy{
+    float: right;
+}
